@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button/> should render the heading 1`] = `
+.c0 a {
+  background-color: white;
+  padding: 1rem 3rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.6rem;
+}
+
+<main
+  class="c0"
+>
+  <a
+    href="/"
+  >
+    Acessar portal
+  </a>
+</main>
+`;
