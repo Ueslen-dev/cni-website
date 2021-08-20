@@ -12,7 +12,7 @@ A estrutura do projeto foi desenvolvida pensando em escalabilidade, utilizando u
 Também foi utilizado o Storybook para documentar alguns componentes utilizados na aplicação, facilitando o trabalho do UI design na hora de testar a interface.
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/65665108/130162766-f01d4679-5353-4a84-948d-9ee1ae85aace.png" width="650"/>
+    <img src="https://user-images.githubusercontent.com/65665108/130162766-f01d4679-5353-4a84-948d-9ee1ae85aace.png" width="500"/>
 </div>
 
 ## 🚀 Tecnologias
