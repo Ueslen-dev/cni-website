@@ -2,12 +2,7 @@
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/65665108/130161952-4d51b054-9995-4353-b72f-9935c3e690ff.png" width="250"/>
-
 </div>
-
-<h3 align="center">
-  Frontend Next Js
-</h3>
 
 ## :bulb: Sobre o projeto
 O CNI Website é um projeto simples, desenvolvido com o intuito de testar novas tecnologias e explorar mais a fundo tecnologias já conhecidas.
@@ -15,6 +10,10 @@ O CNI Website é um projeto simples, desenvolvido com o intuito de testar novas 
 A estrutura do projeto foi desenvolvida pensando em escalabilidade, utilizando uma arquitetura limpa e organizada. O projeto teve como foco utilizar HTML5 de forma semântica, construir um CSS limpo com a ajuda do Styled Component, utilizar GraphQl para fazer requisições mais limpas e compreensíveis, dando poder ao frontend de consultar apenas as informações necessárias, além de utilizar o Next Js juntamente com o poder do TypeScript.
 
 Também foi utilizado o Storybook para documentar alguns componentes utilizados na aplicação, facilitando o trabalho do UI design na hora de testar a interface.
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/65665108/130162766-f01d4679-5353-4a84-948d-9ee1ae85aace.png" width="500"/>
+</div>
 
 ## 🚀 Tecnologias
 
