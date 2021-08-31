@@ -34,6 +34,7 @@ p {
     margin: 0;
     line-height: normal;
   }
+
   .title{
     font-size: 3rem;
     font-weight: bold;
@@ -45,6 +46,7 @@ p {
     font-size: 2rem;
     color: var(--grey-color);
   }
+
   .paragraph{
     font-size: 1.5rem;
     color: var(--grey-color);

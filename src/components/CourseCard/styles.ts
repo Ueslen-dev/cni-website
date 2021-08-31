@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.section`
+export const Wrapper = styled.article`
   -webkit-box-shadow: -2px 2px 16px 1px #b0b0b0;
   box-shadow: -2px 2px 16px 1px #b0b0b0;
   background-color: var(--white-color);

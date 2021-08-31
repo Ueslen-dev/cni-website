@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.header`
+export const Wrapper = styled.footer`
   background-color: var(--white-color);
   border-top: 1px solid #dddddd;
   width: 100%;

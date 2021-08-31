@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Wrapper = styled.main`
+export const Wrapper = styled.div`
   a {
     background-color: white;
     padding: 1rem 3rem 1rem;
